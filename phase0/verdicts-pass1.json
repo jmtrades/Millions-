@@ -279,5 +279,73 @@
   "overall": "KILL-R3",
   "sat": 7,
   "kill": "Continued-hire billing is the core model of inspHire/Point of Rental/HireHop (free tier + \u00a346/mo undercuts \u00a3179)"
+ },
+ "b1-mot-recall-engine": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Evergreen pain, no \u226412mo shift: DVSA reminders linear since 2017; garage-branded reminders bundled in GMS for 10-20 years; MOT Manager free tier does it done-for-you; late-MOT stat is recurring annual PR"
+ },
+ "v1-fincen-rre-deal-desk": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "GTO leg factually wrong (GTOs expired 28 Feb 2026, not reissued); FinCEN suspended enforcement \u2014 no obligation, no liability; ALTA advises keeping existing processes; no evidence of readiness-tool purchases"
+ },
+ "m1-agent-referral-exchange": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "NuOp = exact concept with free-for-life tier; FB referral groups 300k+ members; at-close-only pricing by every paid incumbent strictly dominates $59/mo cold-start board"
+ },
+ "v1-awaabs-law-hazard-clock": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "HazardClock (hazardclock.co.uk) is name-identical AND feature-identical with active SEO engine; AwaabSafe, Weightmans tool, HMS incumbents absorbing clocks as features"
+ },
+ "p1-ai-act-transparency-pack": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "Vanta EU AI Act module inside exact ICP + Drata/OneTrust + 5 boutique fixed-fee legal packs + free EC Compliance Checker; reach0=2 (liability list channel)"
+ },
+ "v1-ai-content-disclosure-kit": {
+  "overall": "PASS",
+  "sat": 5,
+  "scores": {
+   "pain": 6,
+   "reach0": 8,
+   "ttfd": 8,
+   "margin": 9,
+   "timing": 9,
+   "fit": 9
+  },
+  "total": 54,
+  "note": "OMNIBUS RESOLVED: Art.50 visible disclosure bites 2 AUG 2026 (23 days), provider marking 2 Dec 2026, CoP signature 22 Jul. R4 defensible TRUE: C2PA breaks at screenshot/social step so agencies still need re-stamping + visible labels + per-client compliance register as MSA evidence. Exact-ICP owned channel. DATE CORRECTION baked into copy requirement"
+ },
+ "i1-ai-act-deployer-pack": {
+  "overall": "PASS",
+  "sat": 4,
+  "scores": {
+   "pain": 6,
+   "reach0": 8,
+   "ttfd": 9,
+   "margin": 9,
+   "timing": 8,
+   "fit": 9
+  },
+  "total": 55,
+  "note": "LEAD ADJUDICATION on R4: agent defensible:false (free Microsoft/EC substitutes; Annex III delay guts audit upsell). OVERRULED: confusion IS the product \u2014 even professional scouts contradicted each other on omnibus status; buyer pays \u00a3399 for curated correctness + updates channel. CONDITIONS: copy reframed to Art.50 2-Aug + 2-Dec marking dates, Annex III urgency claims dropped, audit upsell repositioned as 'transparency audit' not high-risk governance"
+ },
+ "m1-aiact-ready-directory": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Timing premise factually wrong: omnibus IS law (29 Jun), Annex III high-risk \u2192 Dec 2027, deferring the five-figure engagement frenzy the directory monetizes; '\u00a3490 featured until 2 Aug' sells a deadline that no longer exists"
+ },
+ "i1-ai-ops-lead-accelerator": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "$130k stat conflates ops-managers-AT-AI-startups with an SMB hiring wave; 90% upskilling stat doesn't exist at stated scope; 12-month window unevidenced \u2014 evergreen upskilling in a new-job-title costume"
+ },
+ "m1-operator-sponsor-slots": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "beehiiv ad network (~$1M/mo payouts)/Paved (253M subs)/Passionfroot aggregate audited inventory at founder's tier; Superhuman anchors $1,749 for 1.5M subs; without 692K send, no verifiable email reach to price against"
  }
 }

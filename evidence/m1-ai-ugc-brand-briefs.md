@@ -1,0 +1,11 @@
+# UGC Brief Wire (Qualified Brand-Brief Feed for AI-UGC Creators & Micro-Studios)
+Category: Marketplace | Status: R1-generated 2026-07-10
+
+## R1 Spec
+- Offer: Curated, qualified lead feed sold as subscription to AI-UGC video makers (solo creators and 1–5 person micro-studios using HeyGen/Creatify-class tools): 15+ verified brand briefs per week — DTC/app brands actively commissioning UGC-style ad creative — aggregated from scattered public sources, enriched with budget ($150–$500/video benchmark for human UGC; AI-UGC studios quote per-batch), format specs, and direct contact. One won brief (typical 5–10 video batch ≈ $750–$2,500) repays a year of the sub. Free side: brands, who post/get matched free (they're the scarce demand and must never hit a paywall).
+- Buyer (paying side): AI-UGC creators and micro-studio owners monetizing avatar/UGC ad production (active on TikTok/X "AI UGC" scene; many are @theoperator viewers) who currently find briefs via chaotic Twitter/Discord scavenging.
+- Price: £39/mo (or £299/yr); founding 50 at £24/mo.
+- Channel to first 10: @theoperator short-form ("this week's 10 brands paying for AI UGC — how I found them") + X/TikTok repost, plus DMs to the visibly-selling AI-UGC creators quoting their own public "looking for clients" posts. £0 spend. Independent of founder email lists.
+- Supply seeding: Aggregated day 1 via founder's scraping stack: brand briefs pulled from public UGC job boards, TikTok Creator Marketplace-adjacent postings, X/LinkedIn "looking for UGC creator" posts, and DTC brands' careers/creator pages — verified by checking the brand is live-spending (ad library check). No brand-side sale needed for revenue.
+- Timing hypothesis: US creator-economy ad spend hits ~$37B in 2025 (+26% YoY) and 2026 testing shows AI-generated UGC matching human creator ads on CTR while beating them ~18% on CPA — a brand-new AI-UGC supplier class (tools at ~$39/mo displacing $150–$500/video creators) is forming faster than any brief-discovery infrastructure, leaving demand-discovery freshly fragmented. Searchable: "AI UGC ads CPA 2026", "creator ad spend $37 billion 2025".
+- Citations: [https://theworldmag.com/ugc-tools-ai-avatars-for-video-ads/, https://www.nemovideo.com/blog/ai-ugc-video-generators-ads-2026, https://creatify.ai/use-cases/ugc, https://www.heygen.com/avatars/ugc]

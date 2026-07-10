@@ -1,0 +1,11 @@
+# Operator Placements (Sponsored Slots in the @theoperator Audience)
+Category: Marketplace | Status: R1-generated 2026-07-10
+
+## R1 Spec
+- Offer: Sponsored placement sold to AI/automation SaaS vendors across the founder's owned audience: (1) primary slot in a new weekly "Operator Stack" teardown email to the engaged segment of the 692K list + Skool members, (2) tool-of-the-week feature in @theoperator short-form content, (3) permanent listing in the Operator Stack tools page. Benchmarks: mid-size B2B newsletter primary placements sell for $1,100–$5,000 and specialized B2B lists command $60–$150+ CPM — dev/AI-tool niche is the top band. Free side: the audience (readers pay nothing).
+- Buyer (paying side): Marketing leads/founders of AI SaaS and automation tools (agent platforms, scraping/outreach infra, vertical AI apps; seed–Series B, $50K+/mo revenue) who already buy newsletter/creator placements.
+- Price: £950 per primary newsletter slot; £2,950 for a 4-week bundle (newsletter + short-form mention + directory listing). Billed upfront via Stripe — cash lands day 1.
+- Channel to first 10: Scrape the last 90 days of sponsors from comparable AI/automation newsletters (via Who Sponsors Stuff and the newsletters' own archives) and DM/cold-email those exact sponsor contacts — they are proven buyers with live budgets; plus one @theoperator post announcing sponsorship opening. £0 spend.
+- Supply seeding: Zero chicken-egg: the inventory IS the founder's pre-existing audience (692K list, short-form following, Skool). First send can go out within 7 days; sell against a guaranteed minimum delivered-opens number with a make-good clause.
+- Timing hypothesis: 2026 creator-economy ad spend is up 26% YoY to ~$37B while AI-tool vendor crowding makes differentiated distribution scarce; newsletter placement benchmarks published for 2026 show tech/dev niches at the top of the CPM range — vendors are actively shifting budget from saturated paid social into niche operator audiences. Searchable: "newsletter sponsorship rates 2026 B2B CPM".
+- Citations: [https://sponsorgap.com/blog/newsletter-sponsorship-rates-2026, https://www.admailr.com/email-advertising-tips/newsletter-advertising-rates/, https://www.beehiiv.com/blog/newsletter-sponsorship-cost, https://theworldmag.com/ugc-tools-ai-avatars-for-video-ads/]

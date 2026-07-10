@@ -39,3 +39,5 @@ Format: date | phase | decision | state
 2026-07-10 | GATES | Pass-2 architecture: 3 clusters (woo-agentic ×2, agent-security ×2, automation-fix ×2) + 14 standalones = 17 gate agents, same 3-gate protocol, pass-1 kill evidence injected where relevant | pool=11+20
 2026-07-10 | P2-GATES | KILL r5a-us-ai-hiring-pack (sat8 SixFifty/ASA/law-firm free), r5a-france-einvoice-install (R2 scope FALSE per DGFiP primary source — buyer doesn't exist), r5a-era26-advisory-kit (R4 trust gap, gated channels) | pass2: 3 kills/17 gated
 2026-07-10 | P2-GATES | PASS r5a-duaa-repermission-sprint (52/70 — ZMLUK £105k fine = live enforcement of the exact audited failure; conditions: <8h templated fulfilment, no legal-advice framing). KILL r5a-charity-sorp26-kit (sat8 Mercia/Croner-i/ACIE) | pass2: 5/17 gated, 1 pass
+2026-07-10 | P2-GATES | KILL r5a-epr-rpd-install (sat8 schemes bundle it), r5a-simpler-recycling-rollout (sat7 brokers give it free) | pass2: 7/17 gated, 1 pass
+2026-07-10 | P2-GATES | KILL r5a-cbam-declarant-rescue (sat7 + jurisdictional overreach: UK founder legally cannot file) | pass2: 8/17 gated, 1 pass

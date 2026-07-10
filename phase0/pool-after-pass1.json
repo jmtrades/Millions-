@@ -1,0 +1,176 @@
+{
+ "_meta": {
+  "stage": "post-pass1",
+  "note": "deployer-pack+disclosure-kit merged (same buyer+domain); channel-collision flags for wave staggering"
+ },
+ "survivors": [
+  {
+   "slug": "i1-ai-act-deployer-pack",
+   "total": 55,
+   "sat": 4,
+   "scores": {
+    "pain": 6,
+    "reach0": 8,
+    "ttfd": 9,
+    "margin": 9,
+    "timing": 8,
+    "fit": 9
+   },
+   "note": "LEAD ADJUDICATION on R4: agent defensible:false (free Microsoft/EC substitutes; Annex III delay guts audit upsell). OVERRULED: confusion IS the product \u2014 even professional scouts contradicted each other on omnibus status; buyer pays \u00a3399 for curated correctness + updates channel. CONDITIONS: copy reframed to Art.50 2-Aug + 2-Dec marking dates, Annex III urgency claims dropped, audit upsell repositioned as 'transparency audit' not high-risk governance"
+  },
+  {
+   "slug": "v1-ai-content-disclosure-kit",
+   "total": 54,
+   "sat": 5,
+   "scores": {
+    "pain": 6,
+    "reach0": 8,
+    "ttfd": 8,
+    "margin": 9,
+    "timing": 9,
+    "fit": 9
+   },
+   "note": "OMNIBUS RESOLVED: Art.50 visible disclosure bites 2 AUG 2026 (23 days), provider marking 2 Dec 2026, CoP signature 22 Jul. R4 defensible TRUE: C2PA breaks at screenshot/social step so agencies still need re-stamping + visible labels + per-client compliance register as MSA evidence. Exact-ICP owned channel. DATE CORRECTION baked into copy requirement"
+  },
+  {
+   "slug": "i1-geo-delivery-system",
+   "total": 52,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 6,
+    "ttfd": 8,
+    "margin": 9,
+    "timing": 8,
+    "fit": 9
+   },
+   "note": "LEAD ADJUDICATION on R4: agent marked defensible:false (single-run citation tracker statistically unsound \u2014 32-43% run overlap) but rebuttal holds: product is a sellable-offer kit for SEO freelancers, not a measurement instrument; REQUIREMENT: tracker ships multi-run sampling with uncertainty ranges. Ruled DEFENSIBLE-with-condition"
+  },
+  {
+   "slug": "a1-pay-per-meeting-outbound",
+   "total": 52,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 7,
+    "ttfd": 9,
+    "margin": 6,
+    "timing": 8,
+    "fit": 8
+   },
+   "note": "Category sat 9 but shape (no-retainer \u00a3119/meeting self-serve packs for 1-15-staff agencies) unoccupied \u2014 cheapest benchmark $300/meeting with $10k minimum; R4 defensible barely: prepaid packs bound downside; DISPUTE RISK: qualification definition must be contractual"
+  },
+  {
+   "slug": "p1-outlook-deliverability-rescue",
+   "total": 51,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 6,
+    "ttfd": 8,
+    "margin": 9,
+    "timing": 8,
+    "fit": 8
+   },
+   "note": "MSFT 550 5.7.515 rejections live; \u00a3499/72h quadrant open; Skool = buyer at \u00a30 CAC"
+  },
+  {
+   "slug": "p1-accountant-mtd-capacity-pack",
+   "total": 49,
+   "sat": 4,
+   "scores": {
+    "pain": 7,
+    "reach0": 4,
+    "ttfd": 7,
+    "margin": 9,
+    "timing": 9,
+    "fit": 7
+   },
+   "note": "Vertical n8n productization unserved (only horizontal agencies/Fiverr); rides existing email+spreadsheet stack zero-migration 28 days pre-deadline; R4 defensible"
+  },
+  {
+   "slug": "a1-eudr-dossier-desk",
+   "total": 48,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 6,
+    "ttfd": 7,
+    "margin": 7,
+    "timing": 9,
+    "fit": 5
+   },
+   "note": "LEAD ADJUDICATION on R4: agent defensible:false (liability/trust contest); ruled DEFENSIBLE-with-condition \u2014 sell \u00a3999 fixed-scope READINESS AUDIT only (low-liability diagnostic), not ongoing DDS filing, until credibility built; deadline immovable ('will not be reopened', Commission 4 May 2026) + months-long supplier data collection = buy-now pressure"
+  },
+  {
+   "slug": "m1-ai-brief-board",
+   "total": 48,
+   "sat": 6,
+   "scores": {
+    "pain": 7,
+    "reach0": 7,
+    "ttfd": 7,
+    "margin": 8,
+    "timing": 7,
+    "fit": 8
+   },
+   "note": "LEAD ADJUDICATION on R4: agent defensible:false (Bark-style demand cold-start death spiral). OVERRULED with sequencing condition: collect \u226510 verified briefs via owned audience BEFORE selling any unlock; brief verification stays manual-founder until \u00a31k collected. Incumbents' #1 documented complaint (unverified leads) IS the product. Exact reverse-marketplace shape for AI work verified unoccupied; stats corrected (real: 56% SMBs seek third-party gen-AI implementation, Upwork AI GSV +90-109%)"
+  },
+  {
+   "slug": "i1-operator-brief",
+   "total": 46,
+   "sat": 6,
+   "scores": {
+    "pain": 4,
+    "reach0": 6,
+    "ttfd": 9,
+    "margin": 9,
+    "timing": 5,
+    "fit": 9
+   },
+   "note": "LEAD ADJUDICATION on R4: agent defensible:false on unknowable ceiling + weekly commitment; ruled DEFENSIBLE for portfolio context \u2014 Phase 3 gate resolves ceiling question empirically in 7 days; CONDITION: production must be \u22642h/wk exhaust from live work, else auto-kill at Phase 3"
+  },
+  {
+   "slug": "p1-mtd-landlord-setup",
+   "total": 44,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 3,
+    "ttfd": 7,
+    "margin": 8,
+    "timing": 9,
+    "fit": 5
+   },
+   "note": "R4 defensible: accountant capacity crunch real, accountant setups gate into monthly packages; weak reach0 (forums only)"
+  },
+  {
+   "slug": "p1-eaa-accessibility-pack",
+   "total": 40,
+   "sat": 6,
+   "scores": {
+    "pain": 5,
+    "reach0": 4,
+    "ttfd": 7,
+    "margin": 6,
+    "timing": 8,
+    "fit": 6
+   },
+   "note": "Dutch ACM worldwide info requests reach non-EU stores now; Auchan WON its case though (threshold) \u2014 pain is anticipatory for SMBs; overclaim risk mitigable"
+  },
+  {
+   "slug": "a1-consumer-duty-board-pack",
+   "total": 40,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 3,
+    "ttfd": 5,
+    "margin": 7,
+    "timing": 7,
+    "fit": 4
+   },
+   "note": "\u00a3449 slot between free templates and \u00a31.5k+ consultancy genuinely open; FCA Feb 2026 update endorses 'external experts at proportionate cost' = regulator-citable licence; 21-day deadline is both urgency and trust-sale risk; seasonality noted"
+  }
+ ]
+}

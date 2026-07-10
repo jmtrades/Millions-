@@ -381,5 +381,35 @@
   "overall": "KILL-R3",
   "sat": 7,
   "kill": "BizCrunch owns exact shape (CH-based off-market sourcing, shareholder-age filters, owner-email enrichment, exports, outreach bundles); lane exclusivity unenforceable over public data; BADR 14\u219218% catalyst expired 6 Apr 2026"
+ },
+ "b1-skip-hire-order-line": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "No vertical shift: digital waste tracking is a records mandate (Oct 2026/27) not a phone problem; skip ordering already online (Waste Cloud, SmartBookings); Bizwings sells AI skip receptionists town-by-town; Team-Connect anchors \u00a39.99/mo"
+ },
+ "b1-drainage-night-line": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "UK trades-emergency AI answering colonized at \u00a345-49/mo incl. emergency triage; card pre-auth is a Stripe-link feature, not a moat; price anchor 1/6th of \u00a3299"
+ },
+ "b1-kennel-pen-filler": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "No \u226412mo shift (2018 regs current); KennelBooker ~$95/mo ships the exact wedge (booking+payments+vaccination alerts)"
+ },
+ "b1-storage-speed-to-lead": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "swivl + OpenTech INSOMNIAC ship exact feature set; SiteLink runs a call-centre partner marketplace; UK-native Stora automates enquiry\u2192move-in for same indie buyer"
+ },
+ "a1-trades-missed-call-receptionist": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "7+ UK trades-specific AI receptionists at \u00a345-49/mo + \u00a39.99 horizontal anchor + ElevenLabs gives it away as a template"
+ },
+ "v1-lettings-voice-desk": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "PropCall human incumbent already paid by buyer; VoiceProp AI/Nesti/WiseCall launched; RRA repair-log is a template any incumbent copies; 30K list unverified caps reach0=3"
  }
 }

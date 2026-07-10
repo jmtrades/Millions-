@@ -1,23 +1,360 @@
 {
- "_meta": {"stage": "post-pass2-merged", "date": "2026-07-10", "formula": "pain+reach0+ttfd+margin+(10-sat)+timing+fit /70", "pool": 18},
+ "_meta": {
+  "stage": "FINAL-converged-pass3",
+  "date": "2026-07-10",
+  "formula": "pain+reach0+ttfd+margin+(10-sat)+timing+fit /70",
+  "pool": 19
+ },
  "ventures": [
-  {"rank_wip": 1, "slug": "ai-act-agency-suite", "merged_from": ["i1-ai-act-deployer-pack", "v1-ai-content-disclosure-kit"], "total": 55, "sat": 4, "scores": {"pain": 6, "reach0": 8, "ttfd": 9, "margin": 9, "timing": 8, "fit": 9}, "offer": "£399 AI Act deployer pack (Art.50 disclosure copy, decision trees, n8n oversight blueprints, updates channel) + £79/mo disclosure-register SaaS as phase-2 SKU", "buyer": "AI/automation agency owners + consultants with EU-market client deployments", "deadline": "Art.50 transparency 2 Aug 2026; provider marking 2 Dec 2026", "conditions": "Corrected omnibus dates in ALL copy; Annex III urgency claims dropped; audit upsell reframed as transparency audit"},
-  {"rank_wip": 2, "slug": "email-desk", "merged_from": ["p1-outlook-deliverability-rescue", "r5a-duaa-repermission-sprint"], "total": 52, "sat": 5, "scores": {"pain": 8, "reach0": 8, "ttfd": 8, "margin": 7, "timing": 9, "fit": 8}, "offer": "Inbox Compliance Desk: £499 72h deliverability rescue (MSFT 550-5.7.515 rejections) + £749 7-day DUAA/PECR re-permission sprint; £199/mo monitoring upsell", "buyer": "Lead-gen/marketing agency founders, course creators, B2B SaaS with sending or legacy-list problems", "deadline": "MSFT enforcement live; DUAA fines £17.5M since Feb 2026; ZMLUK £105k Jan 2026", "conditions": "Sprint fulfilment templated <8h; lawful-basis register framed as facts-mapped-to-ICO-guidance, not legal advice"},
-  {"rank_wip": 3, "slug": "i1-geo-delivery-system", "total": 52, "sat": 6, "scores": {"pain": 8, "reach0": 6, "ttfd": 8, "margin": 9, "timing": 8, "fit": 9}, "offer": "£499 GEO business-in-a-box for SEO freelancers: audit template, multi-run n8n citation tracker, proposal/pricing kit, white-label reports; £39/mo community", "buyer": "SEO freelancers/boutique agencies (5-30 retainers) losing CTR to AI Overviews", "deadline": "AIO CTR -61%; top-10↔citation overlap collapsed to 17-38% (Feb 2026)", "conditions": "Tracker ships multi-run sampling with uncertainty ranges (lead-mandated)"},
-  {"rank_wip": 4, "slug": "a1-pay-per-meeting-outbound", "total": 52, "sat": 6, "scores": {"pain": 8, "reach0": 7, "ttfd": 9, "margin": 6, "timing": 8, "fit": 8}, "offer": "£595 per 5-qualified-meeting prepaid pack (£119/meeting), no retainer; deep AI research per prospect from managed inboxes", "buyer": "B2B productized-service/agency founders (1-15 staff), ACV £2k-30k, burned by SDR agencies", "deadline": "SDR dissatisfaction 67% + reply-rate decay makes retainers indefensible", "conditions": "Qualification definition contractual; capacity capped; prepaid packs only"},
-  {"rank_wip": 5, "slug": "r5b-agent-security-audit", "total": 51, "sat": 5, "scores": {"pain": 6, "reach0": 8, "ttfd": 8, "margin": 8, "timing": 8, "fit": 8}, "offer": "£499 25-point agent/automation stack security audit mapped to OWASP Agentic Top 10 2026; white-label findings+remediation report agencies resell; fix upsell", "buyer": "Automation agency owners shipping client agent builds", "deadline": "OWASP Agentic Top 10 Dec 2025; prompt injection +340% YoY Jun 2026", "conditions": "Findings report NEVER certification/PASS-stamp; capped engagement letters + PI insurance"},
-  {"rank_wip": 6, "slug": "r5b-ai-bill-teardown", "total": 51, "sat": 6, "scores": {"pain": 8, "reach0": 6, "ttfd": 8, "margin": 7, "timing": 9, "fit": 9}, "offer": "£299 LLM/agent spend teardown: routing map, caching targets, retry/loop waste, £-quantified savings plan; £999+ implementation upsell", "buyer": "SMB/scale-up ops or product leads with 4-5 figure monthly token bills", "deadline": "AI spend +320%/2yr; Gartner agentic 5-30x token multipliers (Mar 2026)", "conditions": "Pre-screen usage exports BEFORE payment (de-risks 30%-savings refund guarantee)"},
-  {"rank_wip": 7, "slug": "p1-accountant-mtd-capacity-pack", "total": 49, "sat": 4, "scores": {"pain": 7, "reach0": 4, "ttfd": 7, "margin": 9, "timing": 9, "fit": 7}, "offer": "£1,500 7-day n8n/Make capacity install: client triage, onboarding sequences, chase-up workflows, deadline reminder engine wired to practice email+CRM", "buyer": "UK sole practitioners / 2-5 staff accountancy firms, 50-300 sole-trader/landlord clients", "deadline": "First-ever MTD quarterly 7 Aug 2026; £30k wave Apr 2027", "conditions": "none"},
-  {"rank_wip": 8, "slug": "a1-eudr-dossier-desk", "total": 48, "sat": 6, "scores": {"pain": 8, "reach0": 6, "ttfd": 7, "margin": 7, "timing": 9, "fit": 5}, "offer": "£999 EUDR readiness audit (supplier geolocation plan, risk screening, audit file); DDS filing service only after credibility built", "buyer": "Compliance/ops leads at UK/EU coffee/cocoa/timber/furniture importers, 25-250 staff", "deadline": "30 Dec 2026 immovable ('will not be reopened', Commission 4 May 2026)", "conditions": "Sell readiness audit ONLY as wedge (low-liability diagnostic)"},
-  {"rank_wip": 9, "slug": "m1-ai-brief-board", "total": 48, "sat": 6, "scores": {"pain": 7, "reach0": 7, "ttfd": 7, "margin": 8, "timing": 7, "fit": 8}, "offer": "Verified AI-automation brief reverse marketplace: SMBs post budget-verified briefs free; agencies pay £49/unlock (max 4 responders)", "buyer": "AI agency owners/freelancers starving for qualified demand", "deadline": "Agency commoditization 2025-26 (2k→12k agencies; 60% <5 projects)", "conditions": "Collect ≥10 verified briefs BEFORE selling unlocks; manual verification until £1k"},
-  {"rank_wip": 10, "slug": "r5b-agency-rate-report", "total": 47, "sat": 6, "scores": {"pain": 6, "reach0": 7, "ttfd": 4, "margin": 9, "timing": 8, "fit": 9}, "offer": "£39 audited Automation Agency Rate Report 2026 (150+ verified responses); survey participants half-price", "buyer": "Automation freelancers/agency owners pricing work", "deadline": "n8n $5.2B + 1.7M builders (May 2026), entrant flood with zero pricing reference", "conditions": "Survey collection IS the launch campaign; natural bundle with operator-brief"},
-  {"rank_wip": 11, "slug": "i1-operator-brief", "total": 46, "sat": 6, "scores": {"pain": 4, "reach0": 6, "ttfd": 9, "margin": 9, "timing": 5, "fit": 9}, "offer": "£12/mo (£99/yr) weekly production-grade automation teardown + importable template", "buyer": "Automation practitioners/ops leads following AI short-form", "deadline": "soft (attention wave)", "conditions": "Production ≤2h/wk from live-work exhaust, else auto-kill at Phase 3"},
-  {"rank_wip": 12, "slug": "r5b-automation-rescue-48h", "total": 46, "sat": 6, "scores": {"pain": 8, "reach0": 5, "ttfd": 7, "margin": 6, "timing": 8, "fit": 8}, "offer": "£349 48h fix-or-refund broken-automation rescue (n8n/Make/Zapier); triage before payment capture; decline/requote rebuild-class", "buyer": "Non-technical SMB owners with dead freelancer-built automations", "deadline": "n8n V2 breakage class + 1.7M-builder flood", "conditions": "Triage-before-capture; refund capped per unit"},
-  {"rank_wip": 13, "slug": "p1-mtd-landlord-setup", "total": 44, "sat": 6, "scores": {"pain": 8, "reach0": 3, "ttfd": 7, "margin": 8, "timing": 9, "fit": 5}, "offer": "£299 48h MTD setup for unrepresented landlords + £49/quarter retainer", "buyer": "UK BTL landlords >£50k rental income, no accountant, on spreadsheets", "deadline": "First quarterly 7 Aug 2026; accountants at capacity", "conditions": "none"},
-  {"rank_wip": 14, "slug": "r5b-chatgpt-app-fixed-build", "total": 44, "sat": 4, "scores": {"pain": 4, "reach0": 7, "ttfd": 6, "margin": 4, "timing": 8, "fit": 9}, "offer": "£2,950 fixed-scope ChatGPT app build (Apps SDK, MCP backend, OAuth, submission); £149/mo maintenance", "buyer": "Bootstrapped/seed B2B SaaS founders (US-market)", "deadline": "App Directory opened Dec 2025-early 2026; $25k+ agency floor", "conditions": "US-market targeting (EEA/UK directory gap); milestone = built+submitted, approval best-efforts"},
-  {"rank_wip": 15, "slug": "p1-eaa-accessibility-pack", "total": 40, "sat": 6, "scores": {"pain": 5, "reach0": 4, "ttfd": 7, "margin": 6, "timing": 8, "fit": 6}, "offer": "£1,200 7-day EAA pack: WCAG scan + manual checkout pass + statement + 10 theme fixes + evidence folder", "buyer": "DTC Shopify brands (£1M-20M GMV) selling to EU", "deadline": "Dutch ACM enforcement H2 2026; Carrefour order Jun 2026", "conditions": "Never sell certification/guarantee"},
-  {"rank_wip": 16, "slug": "a1-consumer-duty-board-pack", "total": 40, "sat": 6, "scores": {"pain": 8, "reach0": 3, "ttfd": 5, "margin": 7, "timing": 7, "fit": 4}, "offer": "£449 Consumer Duty board report pack from raw MI, mapped to FCA Feb 2026 guidance; £99/mo year-round plan", "buyer": "Small directly-authorised UK FCA firms (mortgage/GI/IFA, 1-10 advisers)", "deadline": "31 July annual board sign-off (21 days)", "conditions": "Drafting labour framing, not advice/assurance; seasonality noted"},
-  {"rank_wip": 17, "slug": "r5a-bik-payrolling-install", "total": 39, "sat": 4, "scores": {"pain": 6, "reach0": 4, "ttfd": 3, "margin": 8, "timing": 6, "fit": 6}, "offer": "£1,250 P11D-sunset migration install for payroll bureaus (rescoped: 2026-readiness + Nov-2026 registrations + last-P11D-season ops)", "buyer": "UK payroll bureau owners, 50-2,000 payroll clients", "deadline": "Mandatory payrolling 6 Apr 2027", "conditions": "Q4-2026 wave sequencing; dry-run deliverable struck (window closed)"},
-  {"rank_wip": 18, "slug": "r5a-vsme-response-sprint", "total": 37, "sat": 6, "scores": {"pain": 6, "reach0": 4, "ttfd": 5, "margin": 7, "timing": 7, "fit": 4}, "offer": "£1,150 10-day VSME Basic Module DFY report + reusable answer matrix + cap cover letter", "buyer": "EU/UK SME manufacturer/logistics suppliers (20-250 staff) losing tender points", "deadline": "VSME delegated act adopted 3 Jul 2026 (in scrutiny); questionnaire surge", "conditions": "Data-gated clock; client attestation; 'incoming law' framing"}
+  {
+   "rank_wip": 1,
+   "slug": "ai-act-agency-suite",
+   "merged_from": [
+    "i1-ai-act-deployer-pack",
+    "v1-ai-content-disclosure-kit"
+   ],
+   "total": 55,
+   "sat": 4,
+   "scores": {
+    "pain": 6,
+    "reach0": 8,
+    "ttfd": 9,
+    "margin": 9,
+    "timing": 8,
+    "fit": 9
+   },
+   "offer": "\u00a3399 AI Act deployer pack (Art.50 disclosure copy, decision trees, n8n oversight blueprints, updates channel) + \u00a379/mo disclosure-register SaaS as phase-2 SKU",
+   "buyer": "AI/automation agency owners + consultants with EU-market client deployments",
+   "deadline": "Art.50 transparency 2 Aug 2026; provider marking 2 Dec 2026",
+   "conditions": "Corrected omnibus dates in ALL copy; Annex III urgency claims dropped; audit upsell reframed as transparency audit"
+  },
+  {
+   "rank_wip": 2,
+   "slug": "email-desk",
+   "merged_from": [
+    "p1-outlook-deliverability-rescue",
+    "r5a-duaa-repermission-sprint"
+   ],
+   "total": 52,
+   "sat": 5,
+   "scores": {
+    "pain": 8,
+    "reach0": 8,
+    "ttfd": 8,
+    "margin": 7,
+    "timing": 9,
+    "fit": 8
+   },
+   "offer": "Inbox Compliance Desk: \u00a3499 72h deliverability rescue (MSFT 550-5.7.515 rejections) + \u00a3749 7-day DUAA/PECR re-permission sprint; \u00a3199/mo monitoring upsell",
+   "buyer": "Lead-gen/marketing agency founders, course creators, B2B SaaS with sending or legacy-list problems",
+   "deadline": "MSFT enforcement live; DUAA fines \u00a317.5M since Feb 2026; ZMLUK \u00a3105k Jan 2026",
+   "conditions": "Sprint fulfilment templated <8h; lawful-basis register framed as facts-mapped-to-ICO-guidance, not legal advice"
+  },
+  {
+   "rank_wip": 3,
+   "slug": "i1-geo-delivery-system",
+   "total": 52,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 6,
+    "ttfd": 8,
+    "margin": 9,
+    "timing": 8,
+    "fit": 9
+   },
+   "offer": "\u00a3499 GEO business-in-a-box for SEO freelancers: audit template, multi-run n8n citation tracker, proposal/pricing kit, white-label reports; \u00a339/mo community",
+   "buyer": "SEO freelancers/boutique agencies (5-30 retainers) losing CTR to AI Overviews",
+   "deadline": "AIO CTR -61%; top-10\u2194citation overlap collapsed to 17-38% (Feb 2026)",
+   "conditions": "Tracker ships multi-run sampling with uncertainty ranges (lead-mandated)"
+  },
+  {
+   "rank_wip": 4,
+   "slug": "a1-pay-per-meeting-outbound",
+   "total": 52,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 7,
+    "ttfd": 9,
+    "margin": 6,
+    "timing": 8,
+    "fit": 8
+   },
+   "offer": "\u00a3595 per 5-qualified-meeting prepaid pack (\u00a3119/meeting), no retainer; deep AI research per prospect from managed inboxes",
+   "buyer": "B2B productized-service/agency founders (1-15 staff), ACV \u00a32k-30k, burned by SDR agencies",
+   "deadline": "SDR dissatisfaction 67% + reply-rate decay makes retainers indefensible",
+   "conditions": "Qualification definition contractual; capacity capped; prepaid packs only"
+  },
+  {
+   "rank_wip": 5,
+   "slug": "r5b-agent-security-audit",
+   "total": 51,
+   "sat": 5,
+   "scores": {
+    "pain": 6,
+    "reach0": 8,
+    "ttfd": 8,
+    "margin": 8,
+    "timing": 8,
+    "fit": 8
+   },
+   "offer": "\u00a3499 25-point agent/automation stack security audit mapped to OWASP Agentic Top 10 2026; white-label findings+remediation report agencies resell; fix upsell",
+   "buyer": "Automation agency owners shipping client agent builds",
+   "deadline": "OWASP Agentic Top 10 Dec 2025; prompt injection +340% YoY Jun 2026",
+   "conditions": "Findings report NEVER certification/PASS-stamp; capped engagement letters + PI insurance"
+  },
+  {
+   "rank_wip": 6,
+   "slug": "r5b-ai-bill-teardown",
+   "total": 51,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 6,
+    "ttfd": 8,
+    "margin": 7,
+    "timing": 9,
+    "fit": 9
+   },
+   "offer": "\u00a3299 LLM/agent spend teardown: routing map, caching targets, retry/loop waste, \u00a3-quantified savings plan; \u00a3999+ implementation upsell",
+   "buyer": "SMB/scale-up ops or product leads with 4-5 figure monthly token bills",
+   "deadline": "AI spend +320%/2yr; Gartner agentic 5-30x token multipliers (Mar 2026)",
+   "conditions": "Pre-screen usage exports BEFORE payment (de-risks 30%-savings refund guarantee)"
+  },
+  {
+   "rank_wip": 7,
+   "slug": "p1-accountant-mtd-capacity-pack",
+   "total": 49,
+   "sat": 4,
+   "scores": {
+    "pain": 7,
+    "reach0": 4,
+    "ttfd": 7,
+    "margin": 9,
+    "timing": 9,
+    "fit": 7
+   },
+   "offer": "\u00a31,500 7-day n8n/Make capacity install: client triage, onboarding sequences, chase-up workflows, deadline reminder engine wired to practice email+CRM",
+   "buyer": "UK sole practitioners / 2-5 staff accountancy firms, 50-300 sole-trader/landlord clients",
+   "deadline": "First-ever MTD quarterly 7 Aug 2026; \u00a330k wave Apr 2027",
+   "conditions": "none"
+  },
+  {
+   "rank_wip": 8,
+   "slug": "a1-eudr-dossier-desk",
+   "total": 48,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 6,
+    "ttfd": 7,
+    "margin": 7,
+    "timing": 9,
+    "fit": 5
+   },
+   "offer": "\u00a3999 EUDR readiness audit (supplier geolocation plan, risk screening, audit file); DDS filing service only after credibility built",
+   "buyer": "Compliance/ops leads at UK/EU coffee/cocoa/timber/furniture importers, 25-250 staff",
+   "deadline": "30 Dec 2026 immovable ('will not be reopened', Commission 4 May 2026)",
+   "conditions": "Sell readiness audit ONLY as wedge (low-liability diagnostic)"
+  },
+  {
+   "rank_wip": 9,
+   "slug": "m1-ai-brief-board",
+   "total": 48,
+   "sat": 6,
+   "scores": {
+    "pain": 7,
+    "reach0": 7,
+    "ttfd": 7,
+    "margin": 8,
+    "timing": 7,
+    "fit": 8
+   },
+   "offer": "Verified AI-automation brief reverse marketplace: SMBs post budget-verified briefs free; agencies pay \u00a349/unlock (max 4 responders)",
+   "buyer": "AI agency owners/freelancers starving for qualified demand",
+   "deadline": "Agency commoditization 2025-26 (2k\u219212k agencies; 60% <5 projects)",
+   "conditions": "Collect \u226510 verified briefs BEFORE selling unlocks; manual verification until \u00a31k"
+  },
+  {
+   "rank_wip": 10,
+   "slug": "r5b-agency-rate-report",
+   "total": 47,
+   "sat": 6,
+   "scores": {
+    "pain": 6,
+    "reach0": 7,
+    "ttfd": 4,
+    "margin": 9,
+    "timing": 8,
+    "fit": 9
+   },
+   "offer": "\u00a339 audited Automation Agency Rate Report 2026 (150+ verified responses); survey participants half-price",
+   "buyer": "Automation freelancers/agency owners pricing work",
+   "deadline": "n8n $5.2B + 1.7M builders (May 2026), entrant flood with zero pricing reference",
+   "conditions": "Survey collection IS the launch campaign; natural bundle with operator-brief"
+  },
+  {
+   "rank_wip": 11,
+   "slug": "i1-operator-brief",
+   "total": 46,
+   "sat": 6,
+   "scores": {
+    "pain": 4,
+    "reach0": 6,
+    "ttfd": 9,
+    "margin": 9,
+    "timing": 5,
+    "fit": 9
+   },
+   "offer": "\u00a312/mo (\u00a399/yr) weekly production-grade automation teardown + importable template",
+   "buyer": "Automation practitioners/ops leads following AI short-form",
+   "deadline": "soft (attention wave)",
+   "conditions": "Production \u22642h/wk from live-work exhaust, else auto-kill at Phase 3"
+  },
+  {
+   "rank_wip": 12,
+   "slug": "r5b-automation-rescue-48h",
+   "total": 46,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 5,
+    "ttfd": 7,
+    "margin": 6,
+    "timing": 8,
+    "fit": 8
+   },
+   "offer": "\u00a3349 48h fix-or-refund broken-automation rescue (n8n/Make/Zapier); triage before payment capture; decline/requote rebuild-class",
+   "buyer": "Non-technical SMB owners with dead freelancer-built automations",
+   "deadline": "n8n V2 breakage class + 1.7M-builder flood",
+   "conditions": "Triage-before-capture; refund capped per unit"
+  },
+  {
+   "rank_wip": 13,
+   "slug": "p1-mtd-landlord-setup",
+   "total": 44,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 3,
+    "ttfd": 7,
+    "margin": 8,
+    "timing": 9,
+    "fit": 5
+   },
+   "offer": "\u00a3299 48h MTD setup for unrepresented landlords + \u00a349/quarter retainer",
+   "buyer": "UK BTL landlords >\u00a350k rental income, no accountant, on spreadsheets",
+   "deadline": "First quarterly 7 Aug 2026; accountants at capacity",
+   "conditions": "none"
+  },
+  {
+   "rank_wip": 14,
+   "slug": "r5b-chatgpt-app-fixed-build",
+   "total": 44,
+   "sat": 4,
+   "scores": {
+    "pain": 4,
+    "reach0": 7,
+    "ttfd": 6,
+    "margin": 4,
+    "timing": 8,
+    "fit": 9
+   },
+   "offer": "\u00a32,950 fixed-scope ChatGPT app build (Apps SDK, MCP backend, OAuth, submission); \u00a3149/mo maintenance",
+   "buyer": "Bootstrapped/seed B2B SaaS founders (US-market)",
+   "deadline": "App Directory opened Dec 2025-early 2026; $25k+ agency floor",
+   "conditions": "US-market targeting (EEA/UK directory gap); milestone = built+submitted, approval best-efforts"
+  },
+  {
+   "rank_wip": 15,
+   "slug": "r6-immigration-capacity-install",
+   "total": 41,
+   "sat": 5,
+   "scores": {
+    "pain": 7,
+    "reach0": 3,
+    "ttfd": 4,
+    "margin": 8,
+    "timing": 7,
+    "fit": 7
+   },
+   "offer": "\u00a32,400 2-week ops install: intake triage, doc-chase sequences, status comms, capacity dashboard \u2014 zero immigration advice",
+   "buyer": "Private-fee UK immigration firms (IAA L2/3 + small solicitor firms), 1-15 fee earners",
+   "deadline": "Settlement-rush live; reform expected Autumn 2026",
+   "conditions": "Private-fee firms only; SRA diligence pack pre-packaged"
+  },
+  {
+   "rank_wip": 16,
+   "slug": "p1-eaa-accessibility-pack",
+   "total": 40,
+   "sat": 6,
+   "scores": {
+    "pain": 5,
+    "reach0": 4,
+    "ttfd": 7,
+    "margin": 6,
+    "timing": 8,
+    "fit": 6
+   },
+   "offer": "\u00a31,200 7-day EAA pack: WCAG scan + manual checkout pass + statement + 10 theme fixes + evidence folder",
+   "buyer": "DTC Shopify brands (\u00a31M-20M GMV) selling to EU",
+   "deadline": "Dutch ACM enforcement H2 2026; Carrefour order Jun 2026",
+   "conditions": "Never sell certification/guarantee"
+  },
+  {
+   "rank_wip": 17,
+   "slug": "a1-consumer-duty-board-pack",
+   "total": 40,
+   "sat": 6,
+   "scores": {
+    "pain": 8,
+    "reach0": 3,
+    "ttfd": 5,
+    "margin": 7,
+    "timing": 7,
+    "fit": 4
+   },
+   "offer": "\u00a3449 Consumer Duty board report pack from raw MI, mapped to FCA Feb 2026 guidance; \u00a399/mo year-round plan",
+   "buyer": "Small directly-authorised UK FCA firms (mortgage/GI/IFA, 1-10 advisers)",
+   "deadline": "31 July annual board sign-off (21 days)",
+   "conditions": "Drafting labour framing, not advice/assurance; seasonality noted"
+  },
+  {
+   "rank_wip": 18,
+   "slug": "r5a-bik-payrolling-install",
+   "total": 39,
+   "sat": 4,
+   "scores": {
+    "pain": 6,
+    "reach0": 4,
+    "ttfd": 3,
+    "margin": 8,
+    "timing": 6,
+    "fit": 6
+   },
+   "offer": "\u00a31,250 P11D-sunset migration install for payroll bureaus (rescoped: 2026-readiness + Nov-2026 registrations + last-P11D-season ops)",
+   "buyer": "UK payroll bureau owners, 50-2,000 payroll clients",
+   "deadline": "Mandatory payrolling 6 Apr 2027",
+   "conditions": "Q4-2026 wave sequencing; dry-run deliverable struck (window closed)"
+  },
+  {
+   "rank_wip": 19,
+   "slug": "r5a-vsme-response-sprint",
+   "total": 37,
+   "sat": 6,
+   "scores": {
+    "pain": 6,
+    "reach0": 4,
+    "ttfd": 5,
+    "margin": 7,
+    "timing": 7,
+    "fit": 4
+   },
+   "offer": "\u00a31,150 10-day VSME Basic Module DFY report + reusable answer matrix + cap cover letter",
+   "buyer": "EU/UK SME manufacturer/logistics suppliers (20-250 staff) losing tender points",
+   "deadline": "VSME delegated act adopted 3 Jul 2026 (in scrutiny); questionnaire surge",
+   "conditions": "Data-gated clock; client attestation; 'incoming law' framing"
+  }
  ]
 }

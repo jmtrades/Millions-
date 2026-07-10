@@ -41,3 +41,5 @@ Format: date | phase | decision | state
 2026-07-10 | P2-GATES | PASS r5a-duaa-repermission-sprint (52/70 — ZMLUK £105k fine = live enforcement of the exact audited failure; conditions: <8h templated fulfilment, no legal-advice framing). KILL r5a-charity-sorp26-kit (sat8 Mercia/Croner-i/ACIE) | pass2: 5/17 gated, 1 pass
 2026-07-10 | P2-GATES | KILL r5a-epr-rpd-install (sat8 schemes bundle it), r5a-simpler-recycling-rollout (sat7 brokers give it free) | pass2: 7/17 gated, 1 pass
 2026-07-10 | P2-GATES | KILL r5a-cbam-declarant-rescue (sat7 + jurisdictional overreach: UK founder legally cannot file) | pass2: 8/17 gated, 1 pass
+2026-07-10 | P2-GATES | PASS r5b-chatgpt-app-fixed-build (44/70 — unoccupied £3k slot; conditions: US-market targeting, milestone contract) | pass2: 9/17 gated, 2 pass
+2026-07-10 | P2-GATES | KILL r5b-vetted-operator-bench (R2 pain undocumented), r5b-woo-agentic-checkout-biab + r5b-woo-ai-checkout-install (R2: OpenAI Instant Checkout walk-back 24 Mar 2026 + Woo 10.7 native rails — regenerator premise 4 months stale; gates caught it) | pass2: 12/20 gated, 2 pass

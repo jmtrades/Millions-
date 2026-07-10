@@ -51,5 +51,34 @@
   "overall": "KILL-R3",
   "sat": 7,
   "kill": "CBAMBOO/Coolset/Tanso SaaS + Kuehne+Nagel bundles complete CBAM for broker clients (the resell channel IS the competition) + free NCA helpdesks; FATAL: non-EU UK solo cannot be authorised declarant or ICR \u2014 can only ghost-prep; 50t threshold removed ~90% of importers = the targeted SME cohort"
+ },
+ "r5b-chatgpt-app-fixed-build": {
+  "overall": "PASS",
+  "sat": 4,
+  "scores": {
+   "pain": 4,
+   "reach0": 7,
+   "ttfd": 6,
+   "margin": 4,
+   "timing": 8,
+   "fit": 9
+  },
+  "total": 44,
+  "note": "Only custom-quote agencies + $25k+ shops occupy the category; no productized ~\u00a33k build-through-review offer exists. CAVEATS: OpenAI review 60-120d waits (no SLA), directory invisible to EEA/CH/UK users mid-2026 \u2192 target US-market SaaS. CONDITION: contract milestone 2 = 'built-to-guidelines + submitted', approval best-efforts; \u00a31,475 banks at kickoff"
+ },
+ "r5b-vetted-operator-bench": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Load-bearing pain undocumented: zero indexed employer complaints about fake n8n experts across 3 query shapes; counter-evidence: Upwork/Fiverr curated n8n storefronts with no outcry; Employment Agencies Act exposure unresolved"
+ },
+ "r5b-woo-agentic-checkout-biab": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Premise 4 months stale: OpenAI deprioritized Instant Checkout 24 Mar 2026 (~30 merchants ever live, Walmart 3x worse in-chat conversion); WooCommerce 10.7 shipped native agentic_commerce rails + official Stripe ACS extension (Apr 2026)"
+ },
+ "r5b-woo-ai-checkout-install": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Same walk-back + hinge deliverable sits behind US-merchants-only waitlist a UK founder cannot influence \u2014 5-day promise + refund clause = structural refund exposure; ChatGPT referral sales data weak"
  }
 }

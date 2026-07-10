@@ -1,0 +1,40 @@
+{
+ "_meta": {
+  "pass": 2,
+  "scoring": "same as pass1"
+ },
+ "r5a-us-ai-hiring-pack": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "SixFifty (Wilson Sonsini-built) productizes multi-state AI-employment docs; Fisher Phillips/Littler free trackers+playbooks; ASA (buyer's own trade body) ships free AI checklist + model docs + staffing-specific briefings; UPL exposure for UK non-lawyer caps fit at 2"
+ },
+ "r5a-france-einvoice-install": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Scope claim FALSE per DGFiP: receiving obligation applies only to taxable persons ESTABLISHED in France; foreign VAT-registered non-established entities fall under e-reporting, deferred Sept 2027 \u2014 the English-wedge buyer has no Sept-2026 obligation; R1 claim traced to a vendor blog contradicted by primary source"
+ },
+ "r5a-era26-advisory-kit": {
+  "overall": "KILL-R4",
+  "sat": 6,
+  "kill": "Unrebutted trust gap: PI-insured CIPD-professionalised consultants have authority-backed substitutes (CIPD HR-inform ERA Toolkit) + reseller-licensed hrdocbox; HR Ninjas partners route is PAID, HRi is paid vetted membership \u2014 channels gated; founder has zero HR positioning"
+ },
+ "r5a-duaa-repermission-sprint": {
+  "overall": "PASS",
+  "sat": 5,
+  "scores": {
+   "pain": 7,
+   "reach0": 9,
+   "ttfd": 8,
+   "margin": 6,
+   "timing": 9,
+   "fit": 8
+  },
+  "total": 52,
+  "note": "ICO Jan 2026 fined ZMLUK \u00a3105k for 67M non-consented emails from third-party data \u2014 the exact failure the sprint audits; no fixed-price productized re-permission sprint found anywhere (bundle currently requires 3 vendor categories); R4 defensible: audit-first design suppresses no-lawful-route records BEFORE sends (the catch-22 IS the moat); CONDITIONS: template fulfilment to <8h, basis register framed as facts-mapped-to-ICO-guidance not legal advice"
+ },
+ "r5a-charity-sorp26-kit": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "Croner-i model accounts + Mercia manual/IE toolkit + ACIE (buyer's own body) workshop + free ICAEW hub inside the proposed channel; threshold rises remove ~11,000 charities from scrutiny, shrinking buyer's book"
+ }
+}

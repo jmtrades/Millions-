@@ -1,0 +1,176 @@
+{
+ "_meta": {
+  "pass": 1,
+  "updated": "2026-07-10",
+  "scoring": "total = pain+reach0+ttfd+margin+(10-saturation)+timing+fit, max 70"
+ },
+ "p1-outlook-deliverability-rescue": {
+  "overall": "PASS",
+  "sat": 6,
+  "scores": {
+   "pain": 8,
+   "reach0": 6,
+   "ttfd": 8,
+   "margin": 9,
+   "timing": 8,
+   "fit": 8
+  },
+  "total": 51,
+  "note": "MSFT 550 5.7.515 rejections live; \u00a3499/72h quadrant open; Skool = buyer at \u00a30 CAC"
+ },
+ "p1-cold-infra-buildout": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "Mailforge/Zapmail $2-3/mailbox push-button + Smartlead SmartSenders bundled in-platform; \u00a31,250 human-assembly premium can't hold"
+ },
+ "i1-agent-ai-visibility-kit": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "Colibri/McKissock (largest US RE educators) sell exact 'get found in AI' promise with CE credit at $179; free checkers exist"
+ },
+ "p1-realtor-ai-findability-audit": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "RealSavvy/BulletProof give the audit away FREE as lead magnet for $299/mo services; the study cited in the pitch is a competitor's lead-gen"
+ },
+ "a1-realtor-ai-isa": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Category served pre-cost-collapse (Structurely 2017, Ylopo voice Nov 2023) so 'voice got cheap' is incumbent tailwind not opening; NAR commission compression REFUTED (2.42% Q3'25 vs 2.36% prior; ~5.70% total Feb'26); COGS quoted at floor pricing"
+ },
+ "a1-tender-first-draft-desk": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "AutogenAI ($65.3M raised), CleanTender \u00a399/mo same soft-FM vertical, bidtogether Apr 2026 same DFY shape, Complete Tenders \u00a33,100/mo incumbent \u2014 bracketed on price both sides"
+ },
+ "p1-geo-citation-gap-audit": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "Productized AI-visibility audit served at every price from free/$99 to $4,500 + $29/mo self-serve tools; only channel was liability list (reach0 2)"
+ },
+ "i1-geo-delivery-system": {
+  "overall": "PASS",
+  "sat": 6,
+  "scores": {
+   "pain": 8,
+   "reach0": 6,
+   "ttfd": 8,
+   "margin": 9,
+   "timing": 8,
+   "fit": 9
+  },
+  "total": 52,
+  "note": "LEAD ADJUDICATION on R4: agent marked defensible:false (single-run citation tracker statistically unsound \u2014 32-43% run overlap) but rebuttal holds: product is a sellable-offer kit for SEO freelancers, not a measurement instrument; REQUIREMENT: tracker ships multi-run sampling with uncertainty ranges. Ruled DEFENSIBLE-with-condition"
+ },
+ "m1-agency-citation-directory": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "Clutch/DesignRush/Techreviewer monetized incumbents + AI-native near-clone AI Agency Map (293+ agencies); cold domain must out-rank 10+ authority players for the exact query"
+ },
+ "p1-eaa-accessibility-pack": {
+  "overall": "PASS",
+  "sat": 6,
+  "scores": {
+   "pain": 5,
+   "reach0": 4,
+   "ttfd": 7,
+   "margin": 6,
+   "timing": 8,
+   "fit": 6
+  },
+  "total": 40,
+  "note": "Dutch ACM worldwide info requests reach non-EU stores now; Auchan WON its case though (threshold) \u2014 pain is anticipatory for SMBs; overclaim risk mitigable"
+ },
+ "v1-eaa-storefront-evidence": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "$9.99/mo Shopify-native apps do scan+statement+report in-admin; TestParty owns 'not an overlay'; no moat at <8h build"
+ },
+ "a1-pr-monitoring-brief": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "Fully-served price ladder $20-600/mo; Shadow ships agency daily brief incl. AI engines; r/PublicRelations channel strip-mined by 6+ vendors' SEO"
+ },
+ "v1-mtd-landlord-autopilot": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "40+ HMRC-recognised incl. 9+ free (FreeAgent via banks, Landlord Studio free tier); NRLA bundles Taxd; no HMRC vendor recognition"
+ },
+ "p1-mtd-landlord-setup": {
+  "overall": "PASS",
+  "sat": 6,
+  "scores": {
+   "pain": 8,
+   "reach0": 3,
+   "ttfd": 7,
+   "margin": 8,
+   "timing": 9,
+   "fit": 5
+  },
+  "total": 44,
+  "note": "R4 defensible: accountant capacity crunch real, accountant setups gate into monthly packages; weak reach0 (forums only)"
+ },
+ "i1-landlord-mtd-system": {
+  "overall": "KILL-R4",
+  "sat": 6,
+  "kill": "No asset reaches landlords; HMRC free + NRLA CPD course own the slot; penalty waiver guts fear hook"
+ },
+ "m1-landlord-mtd-groupbuy": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "NRLA \u00a3125/yr with 50+ negotiated deals owns 'annual fee for landlord discounts'; free substitutes destroy 30%-off math"
+ },
+ "a1-pay-per-meeting-outbound": {
+  "overall": "PASS",
+  "sat": 6,
+  "scores": {
+   "pain": 8,
+   "reach0": 7,
+   "ttfd": 9,
+   "margin": 6,
+   "timing": 8,
+   "fit": 8
+  },
+  "total": 52,
+  "note": "Category sat 9 but shape (no-retainer \u00a3119/meeting self-serve packs for 1-15-staff agencies) unoccupied \u2014 cheapest benchmark $300/meeting with $10k minimum; R4 defensible barely: prepaid packs bound downside; DISPUTE RISK: qualification definition must be contractual"
+ },
+ "a1-planning-application-scout": {
+  "overall": "KILL-R2",
+  "sat": null,
+  "kill": "Premise falsified: PlanIt free API aggregates 425+ LPAs (20M records) via conventional scrapers for years; Glenigan/Barbour ABI 30yrs; LandInsight/Searchland \u00a3195-200/mo same buyer \u2014 agent sweeps strictly costlier than existing route"
+ },
+ "a1-mtd-quarterly-filing-desk": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "QX/Digital Tax Service/Sapphire/Corient already sell white-label MTD quarterly prep and market it on AccountingWEB itself"
+ },
+ "v1-mtd-practice-cockpit": {
+  "overall": "KILL-R3",
+  "sat": 7,
+  "kill": "BrightManager ships chasing/onboarding/MTD tracking natively; QuickBooks free readiness tooling; 10-deep PM software field"
+ },
+ "p1-accountant-mtd-capacity-pack": {
+  "overall": "PASS",
+  "sat": 4,
+  "scores": {
+   "pain": 7,
+   "reach0": 4,
+   "ttfd": 7,
+   "margin": 9,
+   "timing": 9,
+   "fit": 7
+  },
+  "total": 49,
+  "note": "Vertical n8n productization unserved (only horizontal agencies/Fiverr); rides existing email+spreadsheet stack zero-migration 28 days pre-deadline; R4 defensible"
+ },
+ "m1-mtd-accountant-leadfeed": {
+  "overall": "KILL-R3",
+  "sat": 8,
+  "kill": "Unbiased Pro dominant + Leads 4 Accountants runs the identical exclusive-territory model at \u00a3450/mo; supply plan PECR-radioactive"
+ },
+ "i1-mtd-practice-engine": {
+  "overall": "KILL-R4",
+  "sat": 6,
+  "kill": "Not an accountant, no practice-owner audience, PECR-liability channel; Bounce!/ICPA occupy the \u00a399/mo slot on peer trust"
+ }
+}

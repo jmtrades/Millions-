@@ -40,3 +40,57 @@
 6. FPF — the new wave of chatbot legislation (multi-state spread): https://fpf.org/blog/understanding-the-new-wave-of-chatbot-legislation-california-sb-243-and-beyond/
 7. Walk-back check trail (LegiScan chaptered text; no 2026 amendment/injunction found): https://legiscan.com/CA/text/SB243/id/3273344
 8. Signing announcement (first-in-nation safeguards, 13 Oct 2025): https://sd18.senate.ca.gov/news/first-nation-ai-chatbot-safeguards-signed-law
+
+---
+
+## R2 Timing Gate (hostile verification, 2026-07-11) — PASS with downgrades
+
+**Verified true:**
+- CA SB 243 chaptered, in force **1 Jan 2026**; PRA = injunctive relief + greater of actual damages or **$1,000/violation** + attorney's fees. Confirmed: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB243 ; https://natlawreview.com/article/when-ai-feels-human-californias-sb-243-opens-door-private-lawsuits ; https://www.gunder.com/en/news-insights/insights/client-insight-california-sb-243-new-compliance-requirements-for-operators-of-ai-companion-chatbots
+- **Caveat the scout under-weighted:** PRA requires plaintiff to show **"injury in fact"** caused by a violation (NLR, Gunderson) — not GDPR-style strike-suit statutory damages for bare technical non-compliance. Blunts "existential per-violation exposure" for apps with no harmed user.
+- NY companion-chatbot law effective **5 Nov 2025** — confirmed, but scout mislabeled statute book: it is **General Business Law Article 47** (A6767 lineage), not "GOL". Substance/date correct. AG-enforced, civil penalties up to **$15,000/day**; narrow private action for users physically/financially harmed via self-harm. https://www.fenwick.com/insights/publications/new-yorks-ai-companion-safeguard-law-takes-effect ; https://www.mofo.com/resources/insights/251120-new-york-and-california-enact-landmark-ai ; https://www.nysenate.gov/legislation/bills/2025/A6767
+- Regulator posture is live: Hochul sent notification letters to AI companion companies that safeguards are in effect: https://www.governor.ny.gov/news/governor-hochul-pens-letter-ai-companion-companies-notifying-them-safeguard-requirements-are
+- Multi-state wave confirmed (Orrick Apr 2026 survey of 2026 state chatbot laws; FPF): https://www.orrick.com/en/Insights/2026/04/2026-State-Chatbot-Laws-Key-Provisions-and-Regulatory-Trends ; https://fpf.org/blog/understanding-the-new-wave-of-chatbot-legislation-california-sb-243-and-beyond/
+- Walk-back/injunction: **no SB 243 or NY Art. 47 injunction, amendment, or delay found** as of 11 Jul 2026.
+
+**Downgrade evidence:**
+- **Zero lawsuits found filed under SB 243's PRA** ~6.5 months after effect — enforcement under the statute itself is still THEORETICAL. The live-money events are pre-statute product-liability suits: Character.AI + Google settled five wrongful-death suits Jan 2026 (Garcia/Setzer anchor + CO/NY/TX): https://fortune.com/2026/01/08/google-character-ai-settle-lawsuits-teenage-child-suicides-chatbots/ ; https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html ; https://www.axios.com/2026/01/07/google-character-ai-lawsuits-teen-suicides
+- Constitutional-challenge climate hostile to CA speech-adjacent tech law: 9th Cir. (12 Mar 2026) kept 5 AADC provisions enjoined, striking vague terms — a template for a future SB 243 challenge (none filed yet): https://www.crowell.com/en/insights/client-alerts/netchoice-llc-v-bonta-what-the-ninth-circuits-ruling-could-mean-for-online-speech-regulation
+
+**Verdict:** Dates and mechanisms verify; no walk-back. "Live enforcement wave" was overstated (letters + adjacent settlements, no statute suits). Timing 9→**7**.
+
+## R3 Saturation Gate (2026-07-11) — PASS at sat=5 (scout's 3 was inflated)
+
+**Who sells SB-243 implementation to indie companion devs:**
+- Trust-&-safety vendors are marketing SB 243 content but sell ENTERPRISE guardrails/red-teaming/observability, not £2K installs: ActiveFence https://www.activefence.com/blog/california-ai-laws-sb243-sb53 ; Cinder (ex-Meta, enterprise T&S ops) https://cinder.ai/ ; ecosystem survey https://www.techpolicy.press/the-evolving-trust-and-safety-vendor-ecosystem/
+- **No productized indie-priced "SB 243 compliance install" found** in dedicated search; SERP remains law-firm advisories (Gunderson, Skadden, Troutman, Fenwick, Manatt, MoFo, Orrick) — guidance, not implementation. Scout's core claim holds.
+- **BUT the offer's technical core is free commodity:** OpenAI Moderation API is free to all developers with `self-harm/intent` and `self-harm/instructions` classes: https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model/ ; https://developers.openai.com/api/docs/guides/moderation ; Hive ships a self-harm text class: https://docs.thehive.ai/docs/detailed-class-descriptions-text-moderation — and the buyer is by definition a chatbot developer who can wire a free endpoint to a 988 banner from free law-firm checklists.
+- **Incumbent playbook is copyable free:** Character.AI's public response = ban under-18 open-ended chat (Nov 2025) + "age assurance" rollout — i.e., the cheapest minors-compliance path is age-gating minors OUT, which collapses the minor-mode scope item of this offer: https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html ; https://www.k12dive.com/news/characterai-google-agree-to-mediate-settlements-in-wrongful-teen-death-la/809411/ ; OpenAI's crisis-routing approach is published: https://openai.com/index/helping-people-when-they-need-it-most/
+- **Buyer pool is small, not large:** Appfigures-based counts show ~**337 active revenue-generating AI companion apps worldwide** (128 launched 2025); top 10% capture **89% of category revenue**; only ~33 apps >$1M lifetime consumer spend; $221M cumulative spend to Jul 2025: https://companionrater.com/ai-companion-statistics-2026 ; https://electroiq.com/stats/ai-companions-statistics/ ; https://sensortower.com/blog/state-of-ai-apps-market-overview-2025 — i.e., a thin middle band (~100–250 credible £1,950 buyers incl. web-only platforms) between broke long-tail and in-house-teams top decile. A 50/day sequence exhausts the store-scraped list in ~1–2 weeks.
+
+**Verdict:** Direct paid competition ≈ zero (keeps sat below kill line), but free-commodity components + technical buyers + copyable incumbent playbook + tiny pool = **sat 5** (contributes 10−5=5). 5 ≤ 6 → no kill.
+
+## R4 Red Team (2026-07-11) — rebuttal partially defensible; discounts applied
+
+**Strongest failure case (searchable facts):**
+1. **Life-safety liability asymmetry at £1,950:** the exact system he'd wire (self-harm classifier → crisis protocol) has a failure mode of a dead teenager and multi-party US litigation. Character.AI, its founders AND Google settled five wrongful-death suits (Jan 2026, confidential terms) — plaintiffs' bar is funded, active, and names everyone adjacent: https://fortune.com/2026/01/08/google-character-ai-settle-lawsuits-teenage-child-suicides-chatbots/ ; https://openclassactions.com/lawsuits/character-ai-google-teen-harm-lawsuits-settlement.php ("more families keep filing"). A paid "safety installer" whose evidence pack sits in discovery is a foreseeable witness/co-defendant; US-exposure PI insurance for life-safety software work plausibly costs more per year than several installs return.
+2. **Buyer pool behavior = ignore until sued:** only **15% of mental-health apps** even link the national 988 line (Psychiatric Services / Medscape 2025): https://www.medscape.com/viewarticle/mental-health-apps-slow-embrace-988-crisis-hotline-2025a1000nm4 ; https://psychiatryonline.org/doi/10.1176/appi.ps.20240485 — the compliance-averse (revenue-rich, NSFW-adjacent) half of the pool doesn't buy prevention; the compliance-inclined half can DIY free.
+3. **Platform policy outruns law:** after TTP's Jan 2026 report found 100+ nudify apps, Apple and Google each removed 2-dozen+ within days: https://www.techtransparencyproject.org/articles/apple-and-google-are-steering-users-to-nudify-apps ; NSFW companion economy already pushed off-store to web — an App Store policy shift can vaporize an indie buyer (and the scraped pipeline) faster than any statute.
+
+**Strongest rebuttal:** Contractor implements the OPERATOR's counsel-owned protocol to published mechanical specs (NY's exact 16-pt disclosure text; 3-hr cadences; 988 referral); classifier liability sits upstream with OpenAI/Hive; standard liability caps + UK jurisdiction + £2K contract = unattractive defendant; no precedent found of an implementation contractor named in these suits; and the settlements + Hochul letters are precisely the fear that converts operators NOW. Decline NSFW clients to cut payment/reputational risk (though that halves the already-small pool).
+
+**Defensible: PARTIALLY TRUE.** The legal-posture rebuttal stands (subcontract + caps + operator ownership is how agencies touch regulated systems), but the economics do not: risk-adjusted return of holding crisis-protocol exposure at £1,950/unit into a ~100–250-name pool, with insurance and one-incident brand risk to @theoperator, prices the offer's fit and pain down decisively.
+
+## Gate Verdict + Rescore (hostile, 2026-07-11)
+
+| dim | scout | gate | why |
+|---|---|---|---|
+| pain | 7 | 6 | injury-in-fact hurdle; zero SB 243 suits in 6.5 months; segment's demonstrated 988 apathy |
+| reach0 | 7 | 5 | list is real + enumerable but ~337 revenue apps worldwide, exhausted in weeks; @theoperator↔companion-dev overlap asserted, never evidenced |
+| ttfd | 8 | 7 | prepaid wedge vs cold compliance-fear conversion to founders who ignore safety |
+| margin | 9 | 8 | free APIs + kit, but every install merges into a different custom stack |
+| sat | 3 | 5 | zero paid competitors, but free classifier + free checklists + copyable Character.AI playbook + technical buyers |
+| timing | 9 | 7 | in force + wave + AG letters, but statute enforcement theoretical; 9th-Cir. climate |
+| fit | 9 | 7 | mechanical statutory specs are installable craft; US-law/life-safety spine is not |
+
+**new_total = (7×7)/2 + 6 + 5 + 8 + (10−5) + 7 = 24.5 + 31 = 55.5 < 59 bar → KILL-R4 (aggregate).** Gates R2/R3 cleared on facts; dies at red team + entry bar: liability-asymmetric offer into a small, bifurcated pool (DIY-capable compliers vs sue-me ignorers) with overstated enforcement heat.

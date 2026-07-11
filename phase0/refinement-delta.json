@@ -1,0 +1,192 @@
+{
+ "_meta": {
+  "refinement": "2026-07-11",
+  "formula": "(ttfd*timing)/2 + pain+reach0+margin+(10-sat)+fit /100",
+  "entry_bar": 59.0,
+  "regenerated": 2,
+  "entered": 1,
+  "died": 1,
+  "discovery": "CLOSED until a kill gate frees capacity"
+ },
+ "entered": [
+  {
+   "slug": "r7-art50-marking-install",
+   "new_total": 72,
+   "rank": 3,
+   "note": "provider-side Art.50(2) marking install; gate cut self-score 83\u219272"
+  }
+ ],
+ "died": [
+  {
+   "slug": "r7-companion-chatbot-safety-install",
+   "new_total": 55.5,
+   "note": "KILL-R4 below bar"
+  }
+ ],
+ "moved": [
+  {
+   "slug": "r5b-ai-bill-teardown",
+   "old": 6,
+   "new": 4,
+   "why": "velocity 36 (ttfd8\u00d7timing9)"
+  },
+  {
+   "slug": "p1-mtd-landlord-setup",
+   "old": 13,
+   "new": 10,
+   "why": "7 Aug fuse \u00d79 timing"
+  },
+  {
+   "slug": "r5b-automation-rescue-48h",
+   "old": 12,
+   "new": 11,
+   "why": "in top-11 on velocity"
+  },
+  {
+   "slug": "m1-ai-brief-board",
+   "old": 9,
+   "new": 12,
+   "why": "velocity 24.5 only"
+  },
+  {
+   "slug": "r5b-agency-rate-report",
+   "old": 10,
+   "new": 16,
+   "why": "ttfd 4 punished hard"
+  },
+  {
+   "slug": "i1-geo-delivery-system",
+   "old": 3,
+   "new": 6,
+   "why": "tie-break loss on velocity"
+  },
+  {
+   "slug": "r5a-bik-payrolling-install",
+   "old": 18,
+   "new": 20,
+   "why": "velocity 14 \u2014 slowest fuse"
+  }
+ ],
+ "final_ranking": [
+  [
+   "1",
+   "ai-act-agency-suite",
+   74.0,
+   "WAVE 1 \u2014 BUILT"
+  ],
+  [
+   "2",
+   "email-desk",
+   72.0,
+   "WAVE 1 \u2014 BUILT"
+  ],
+  [
+   "3",
+   "r7-art50-marking-install",
+   72.0,
+   "WAVE 3 FRONT (channel-collision with #1; 2 Dec second wave)"
+  ],
+  [
+   "4",
+   "r5b-ai-bill-teardown",
+   70.0,
+   "WAVE 2"
+  ],
+  [
+   "5",
+   "a1-pay-per-meeting-outbound",
+   69.0,
+   "WAVE 2"
+  ],
+  [
+   "6",
+   "i1-geo-delivery-system",
+   68.0,
+   "WAVE 2"
+  ],
+  [
+   "7",
+   "r5b-agent-security-audit",
+   67.0,
+   "WAVE 2"
+  ],
+  [
+   "8",
+   "p1-accountant-mtd-capacity-pack",
+   64.5,
+   "WAVE 1 \u2014 BUILT"
+  ],
+  [
+   "9",
+   "a1-eudr-dossier-desk",
+   61.5,
+   "WAVE 3"
+  ],
+  [
+   "10",
+   "p1-mtd-landlord-setup",
+   59.5,
+   "WAVE 2"
+  ],
+  [
+   "11",
+   "r5b-automation-rescue-48h",
+   59.0,
+   "WAVE 3"
+  ],
+  [
+   "12",
+   "m1-ai-brief-board",
+   58.5,
+   "WAVE 3"
+  ],
+  [
+   "13",
+   "i1-operator-brief",
+   54.5,
+   "WAVE 3"
+  ],
+  [
+   "14",
+   "r5b-chatgpt-app-fixed-build",
+   54.0,
+   "WAVE 3"
+  ],
+  [
+   "15",
+   "p1-eaa-accessibility-pack",
+   53.0,
+   "WAVE 3"
+  ],
+  [
+   "16",
+   "r5b-agency-rate-report",
+   51.0,
+   "WAVE 3"
+  ],
+  [
+   "17",
+   "r6-immigration-capacity-install",
+   44.0,
+   "WAVE 4"
+  ],
+  [
+   "18",
+   "a1-consumer-duty-board-pack",
+   43.5,
+   "SHELVED \u2192 2027 cycle (directive)"
+  ],
+  [
+   "19",
+   "r5a-vsme-response-sprint",
+   42.5,
+   "WAVE 4"
+  ],
+  [
+   "20",
+   "r5a-bik-payrolling-install",
+   39.0,
+   "WAVE 4 (Q4-26 wave)"
+  ]
+ ]
+}

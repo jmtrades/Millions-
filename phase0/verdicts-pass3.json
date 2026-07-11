@@ -1,0 +1,20 @@
+{
+ "_meta": {
+  "pass": "3-refinement",
+  "scoring": "new cash-velocity /100"
+ },
+ "r7-art50-marking-install": {
+  "overall": "PASS",
+  "new_total": 72,
+  "sat": 5,
+  "scores": {
+   "pain": 6,
+   "reach0": 7,
+   "ttfd": 8,
+   "margin": 8,
+   "timing": 10,
+   "fit": 6
+  },
+  "note": "ENTERS at #3. Hostile gate cut self-score 83\u219272. CONDITIONS: position for voice/avatar/video/open-model stacks (OpenAI C2PA+SynthID passthrough near-complies clean image pipelines); use open-source Meta Seal for watermark layer (no Digimarc/IMATAG licensing); conformity NOTE not certification; second sales wave at 2 Dec 2026 back-book date. Buyer = AI product providers (distinct from agency-deployer suite; channel-collision flag with it)"
+ }
+}

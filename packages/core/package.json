@@ -1,0 +1,19 @@
+{
+  "name": "@millions/core",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./blocks": "./src/blocks/index.tsx"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.0",
+    "stripe": "^17.4.0",
+    "zod": "^3.23.8"
+  },
+  "peerDependencies": {
+    "next": ">=15",
+    "react": ">=19",
+    "react-dom": ">=19"
+  }
+}

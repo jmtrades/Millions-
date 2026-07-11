@@ -2,6 +2,8 @@
 
 **Date:** 2026-07-10 · **Status:** CONVERGED at pass 3 of 4 · **Awaiting founder approval to enter Phase 1**
 
+> **SUPERSEDED 2026-07-11:** ranking re-weighted (cash-velocity formula) + refinement pass added #3 r7-art50-marking-install and killed the companion-chatbot candidate. Authoritative ranking now in `/phase0/refinement-delta.json`. Discovery CLOSED.
+
 ## Process summary
 - **R1:** 60 candidates (6 parallel category scouts, 10 each)
 - **Pass 1 gates (R2 timing / R3 saturation / R4 red team):** 60 gated → 12 survived (80% kill)

@@ -8,7 +8,7 @@ export async function POST(req: NextRequest) {
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
     return NextResponse.redirect(`${req.nextUrl.origin}/?invalid=1#waitlist`, { status: 303 });
   }
-  await insertRow("leads", { venture_slug: cfg.slug, email, kind: cfg.mode === "checkout" ? "contact" : "waitlist" });
+  await insertRow("m_leads", { venture_slug: cfg.slug, email, kind: cfg.mode === "checkout" ? "contact" : "waitlist" });
   await track({ venture: cfg.slug, name: "lead", ua: req.headers.get("user-agent") ?? undefined });
   return NextResponse.redirect(`${req.nextUrl.origin}/?joined=1#waitlist`, { status: 303 });
 }

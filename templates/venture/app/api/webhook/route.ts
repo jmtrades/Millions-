@@ -9,7 +9,7 @@ export async function POST(req: NextRequest) {
   try {
     const res = await orderFromWebhook(raw, sig);
     if (res?.order) {
-      await insertRow("orders", res.order);
+      await insertRow("m_orders", res.order);
       if (res.order.email) {
         await sendEmail({
           to: res.order.email,

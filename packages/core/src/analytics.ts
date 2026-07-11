@@ -10,7 +10,7 @@ export async function track(opts: {
   ua?: string;
   meta?: Record<string, unknown>;
 }) {
-  return insertRow("events", {
+  return insertRow("m_events", {
     venture_slug: opts.venture,
     name: opts.name,
     path: opts.path ?? null,

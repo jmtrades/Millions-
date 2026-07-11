@@ -35,4 +35,4 @@ Next:
   2. Write apps/${slug}/marketing/outreach.md + operator-scripts.md
   3. pnpm install && pnpm --filter ${slug} build
   4. Deploy to Vercel, env: SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, STRIPE_SECRET_KEY, STRIPE_WEBHOOK_SECRET, RESEND_API_KEY, EMAIL_FROM
-  5. Insert venture row: insert into ventures (slug, name, wave) values ('${slug}', '${name}', N);`);
+  5. Insert venture row: insert into m_ventures (slug, name, wave) values ('${slug}', '${name}', N);`);

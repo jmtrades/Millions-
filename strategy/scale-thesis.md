@@ -29,3 +29,12 @@ No 8-hour cap. No 7-day kill. Quarterly evidence gates instead. Solo-buildable t
 
 ## The uncomfortable line (KPI discipline)
 Scoreboard: £0 collected. The wedge for the scale bet is venture #1, built, blocked on a suspended Vercel account. Every week of billions-strategy without the 20-minute unblock (Vercel billing + Stripe key) is strategy about a company that cannot yet accept a payment. Both tracks pass through the same door.
+
+---
+## EVIDENCE VERDICT — 2026-07-11: THESIS CONFIRMED (3/3)
+1. **Comps/market** (`evidence/comps-and-market.md`): wedge→platform pattern produces nine figures repeatedly — Vanta $4.15B on ~$300M ARR (+69% YoY), $100M ARR in ~4-5.5yrs from a checklist wedge; pattern repeated 4× (Avalara, AuditBoard, KnowBe4, Gusto); AI-governance segment growing 34-51% CAGR; ~10x multiples ⇒ ~$25-30M ARR clears nine figures. GRAVEYARD RULE: static-checklist sellers get feature-absorbed (Tugboat Logic→OneTrust); slow entrants trail 3-5x permanently.
+2. **Whitespace** (`evidence/register-whitespace.md`): agency/multi-client register layer OPEN (zero white-label client-book products, EN+DE); single-company floor CONTESTED and closing (ActReady €29/mo one release away; Legalithm FREE until ~2028 land-grab). SHARPEST EDGE: registers auto-generated from the deployment work itself, white-labelled through the agency.
+3. **Regulatory pipeline** (`evidence/regulatory-pipeline-2026-2028.md`): 40 hard-dated obligations; ≥1 module-triggering deadline EVERY QUARTER Aug 2026→Aug 2028 (2 Dec 2026 EU double; 1 Jan 2027 US mega-cluster; 2 Aug 2027 GPAI backfill; 2 Dec 2027 Annex III bundle; 2 Aug 2028 embedded).
+
+## EXECUTION AMENDMENT (evidence-driven)
+Register MVP builds NOW in parallel with the wedge, not after 25 pack sales — because (a) the whitespace door is closing measurably, (b) the graveyard kills slow converters, (c) the wedge is launch-blocked on founder-side billing anyway, making sequential waiting pure dead time. Spec: /strategy/register-mvp-spec.md. Q1 gate unchanged (25 packs + 10 design-partner agencies), now with the MVP ready to catch them.

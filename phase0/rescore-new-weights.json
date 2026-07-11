@@ -1,0 +1,173 @@
+[
+ {
+  "slug": "ai-act-agency-suite",
+  "old_total": 55,
+  "old_rank": 1,
+  "new_total": 74.0,
+  "velocity": 36.0,
+  "new_rank": 1,
+  "moved": 0
+ },
+ {
+  "slug": "email-desk",
+  "old_total": 52,
+  "old_rank": 2,
+  "new_total": 72.0,
+  "velocity": 36.0,
+  "new_rank": 2,
+  "moved": 0
+ },
+ {
+  "slug": "r5b-ai-bill-teardown",
+  "old_total": 51,
+  "old_rank": 6,
+  "new_total": 70.0,
+  "velocity": 36.0,
+  "new_rank": 3,
+  "moved": 3
+ },
+ {
+  "slug": "a1-pay-per-meeting-outbound",
+  "old_total": 52,
+  "old_rank": 4,
+  "new_total": 69.0,
+  "velocity": 36.0,
+  "new_rank": 4,
+  "moved": 0
+ },
+ {
+  "slug": "i1-geo-delivery-system",
+  "old_total": 52,
+  "old_rank": 3,
+  "new_total": 68.0,
+  "velocity": 32.0,
+  "new_rank": 5,
+  "moved": -2
+ },
+ {
+  "slug": "r5b-agent-security-audit",
+  "old_total": 51,
+  "old_rank": 5,
+  "new_total": 67.0,
+  "velocity": 32.0,
+  "new_rank": 6,
+  "moved": -1
+ },
+ {
+  "slug": "p1-accountant-mtd-capacity-pack",
+  "old_total": 49,
+  "old_rank": 7,
+  "new_total": 64.5,
+  "velocity": 31.5,
+  "new_rank": 7,
+  "moved": 0
+ },
+ {
+  "slug": "a1-eudr-dossier-desk",
+  "old_total": 48,
+  "old_rank": 8,
+  "new_total": 61.5,
+  "velocity": 31.5,
+  "new_rank": 8,
+  "moved": 0
+ },
+ {
+  "slug": "p1-mtd-landlord-setup",
+  "old_total": 44,
+  "old_rank": 13,
+  "new_total": 59.5,
+  "velocity": 31.5,
+  "new_rank": 9,
+  "moved": 4
+ },
+ {
+  "slug": "r5b-automation-rescue-48h",
+  "old_total": 46,
+  "old_rank": 12,
+  "new_total": 59.0,
+  "velocity": 28.0,
+  "new_rank": 10,
+  "moved": 2
+ },
+ {
+  "slug": "m1-ai-brief-board",
+  "old_total": 48,
+  "old_rank": 9,
+  "new_total": 58.5,
+  "velocity": 24.5,
+  "new_rank": 11,
+  "moved": -2
+ },
+ {
+  "slug": "i1-operator-brief",
+  "old_total": 46,
+  "old_rank": 11,
+  "new_total": 54.5,
+  "velocity": 22.5,
+  "new_rank": 12,
+  "moved": -1
+ },
+ {
+  "slug": "r5b-chatgpt-app-fixed-build",
+  "old_total": 44,
+  "old_rank": 14,
+  "new_total": 54.0,
+  "velocity": 24.0,
+  "new_rank": 13,
+  "moved": 1
+ },
+ {
+  "slug": "p1-eaa-accessibility-pack",
+  "old_total": 40,
+  "old_rank": 16,
+  "new_total": 53.0,
+  "velocity": 28.0,
+  "new_rank": 14,
+  "moved": 2
+ },
+ {
+  "slug": "r5b-agency-rate-report",
+  "old_total": 47,
+  "old_rank": 10,
+  "new_total": 51.0,
+  "velocity": 16.0,
+  "new_rank": 15,
+  "moved": -5
+ },
+ {
+  "slug": "r6-immigration-capacity-install",
+  "old_total": 41,
+  "old_rank": 15,
+  "new_total": 44.0,
+  "velocity": 14.0,
+  "new_rank": 16,
+  "moved": -1
+ },
+ {
+  "slug": "a1-consumer-duty-board-pack",
+  "old_total": 40,
+  "old_rank": 17,
+  "new_total": 43.5,
+  "velocity": 17.5,
+  "new_rank": 17,
+  "moved": 0
+ },
+ {
+  "slug": "r5a-vsme-response-sprint",
+  "old_total": 37,
+  "old_rank": 19,
+  "new_total": 42.5,
+  "velocity": 17.5,
+  "new_rank": 18,
+  "moved": 1
+ },
+ {
+  "slug": "r5a-bik-payrolling-install",
+  "old_total": 39,
+  "old_rank": 18,
+  "new_total": 39.0,
+  "velocity": 9.0,
+  "new_rank": 19,
+  "moved": -1
+ }
+]
